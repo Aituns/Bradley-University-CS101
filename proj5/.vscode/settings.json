@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.format.settings.url": "esbenp.prettier-vscode"
+}
